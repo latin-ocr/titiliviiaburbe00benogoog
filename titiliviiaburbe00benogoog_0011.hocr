@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviiaburbe00benogoog_0011.png"; bbox 0 0 565 881; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 396 10 500 90">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 396 10 500 90">
+     <span class='ocr_line' id='line_1_1' title="bbox 396 10 500 33; baseline 0.019 -2"><span class='ocrx_word' id='word_1_1' title='bbox 396 10 500 33; x_wconf 56' lang='lat' dir='ltr'><strong>Famem</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 402 37 493 65; baseline 0.044 -4"><span class='ocrx_word' id='word_1_2' title='bbox 402 37 493 65; x_wconf 57' lang='grc' dir='ltr'><em>ΒλΙΚκ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 424 69 476 90; baseline 0.058 -3"><span class='ocrx_word' id='word_1_3' title='bbox 424 69 476 90; x_wconf 52' lang='grc' dir='ltr'><strong>Ἠοῖ)</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 231 378 356 396">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 231 378 356 396">
+     <span class='ocr_line' id='line_1_4' title="bbox 231 378 356 396; baseline -0.032 0"><span class='ocrx_word' id='word_1_4' title='bbox 231 381 248 396; x_wconf 79' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 258 378 356 395; x_wconf 65' lang='grc' dir='ltr'><strong>ΜΕΜΟΒΙΛΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 188 418 419 444">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 188 418 419 444">
+     <span class='ocr_line' id='line_1_5' title="bbox 188 418 419 444; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 188 418 302 444; x_wconf 47' lang='lat' dir='ltr'><strong>&amp;gemmea</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 334 421 419 442; x_wconf 56' lang='lat' dir='ltr'><strong>sslosess</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

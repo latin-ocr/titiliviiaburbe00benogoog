@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviiaburbe00benogoog_0008.png"; bbox 0 0 565 881; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 130 345 402 377">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 130 345 402 377">
+     <span class='ocr_line' id='line_1_1' title="bbox 130 345 402 377; baseline 0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 130 345 232 376; x_wconf 92' lang='grc' dir='ltr'><strong>ΤΙΤΙ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 274 345 402 377; x_wconf 92' lang='lat' dir='ltr'>LIVII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 198 402 332 413">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 198 402 332 413">
+     <span class='ocr_line' id='line_1_2' title="bbox 198 402 332 413; baseline 0.007 -1"><span class='ocrx_word' id='word_1_3' title='bbox 198 402 332 413; x_wconf 61' lang='lat' dir='ltr'>nnnnnnnnnn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 190 436 345 450">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 190 436 345 450">
+     <span class='ocr_line' id='line_1_3' title="bbox 190 436 345 450; baseline 0.006 -2"><span class='ocrx_word' id='word_1_4' title='bbox 190 436 238 449; x_wconf 74' lang='lat' dir='ltr'>unm</span> <span class='ocrx_word' id='word_1_5' title='bbox 255 436 290 450; x_wconf 73' lang='lat' dir='ltr'>xxt.</span> <span class='ocrx_word' id='word_1_6' title='bbox 307 436 345 449; x_wconf 70' lang='lat' dir='ltr'>xxi}</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
